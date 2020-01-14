@@ -3,12 +3,15 @@ title:  "입문교육 소감"
 excerpt: "NHN Rookie#7 입사 후 7일간의 입문교육 소감"
 
 categories:
-  - Blog
+  - NHN
 tags:
-  - Blog
+  - 입사
+  - 입문교육
+  - 소감
+  - 베이스캠프
 ---
 
-## NHN 입사
+## 입사
 
 1/2 에 NHN 에 입사를 했다.
 
