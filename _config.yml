@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #, "default", "air", "contrast", "aqua", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Github Blog"
+title                    : "JE Github Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JE"
@@ -110,7 +110,7 @@ author:
   name             : "JE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "NHN Toast Rookie#7 - 달님"
-  location         : "판교"
+  location         : "판교 NHN 근무"
   email            :
   links:
     - label: "Email"
