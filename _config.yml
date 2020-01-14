@@ -253,6 +253,7 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+# 이 설정 부분을 주석 처리하면 블로그에서 더 이상 카테고리와 태그 목록을 표시x
 category_archive:
   type: liquid
   path: /categories/
