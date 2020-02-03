@@ -29,7 +29,6 @@ tags:
 
 ## 서버 접속 및 종료
 * 접속
-  * ssh hcon.nhnent.com
   * rlogin -l 아이디 호스트명
 * 종료
   * logout / exit
@@ -59,7 +58,6 @@ tags:
     * 리스트 포맷
   * ls -alF
   * ls /
-  * ls /home1/irteam
   * t 옵션 : 시간 내림차순으로 출력
   
 ## Glob pattern
@@ -350,7 +348,6 @@ tags:
 * 잘라내서 쓰기
     ```bash
     cut -d `구분자` -f `필드번호` `파일`
-    grep irteamro /etc/passwd | cut -d: -f1,3-4,7
     ```
 
 ## Alias
@@ -359,7 +356,6 @@ tags:
     alias
     alias grep="egrep"
     alias diffs="diff -ignore-all-space"
-    alias l="ssh hcon.nhnent.com"
     ```
 ## 함수
 * 함수는 원래 리턴값이 있으나 bash에서는 subroutine과 구분이 없어 없기도 함
@@ -486,10 +482,10 @@ tags:
 * 다른 사용자로 변경
   * su
     * 다른 사용자로 변경하기
-    * su irteam
-    * su -l irteamsu
+    * su user
+    * su -l usersu
   * sudo
-    * rlogin -l irteamsu 호스트명
+    * rlogin -l usersu 호스트명
     * sudo apps/httpd/bin/apachectl start
 * 접속 패스워드 변경하기
   * passwd
