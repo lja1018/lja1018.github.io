@@ -1,6 +1,6 @@
 ---
-title:  "2020-02-05 Login session 뒤로가기 오류 해결"
-excerpt: "2020-02-05 Login session 뒤로가기 오류 해결"
+title:  "2020-03-05 Login session 뒤로가기 오류 해결"
+excerpt: "2020-03-05 Login session 뒤로가기 오류 해결"
 
 categories:
   - 베이스캠프
