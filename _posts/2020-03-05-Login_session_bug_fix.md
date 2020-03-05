@@ -28,6 +28,6 @@ tags:
 
 # 해결 방법
 
-![htmlelement](../assets/imgs/0305_login.png)
+![0305_login](https://imgur.com/rOSSsTN.png)
 
 뒤로가기를 통한 진입을 막는 페이지의 jsp에서 해당 코드를 추가하는 것으로 해결할 수 있었다.
