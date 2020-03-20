@@ -14,7 +14,7 @@ tags:
 
 테스트 결과 유효기간이 설정된 메일의 경우 유효기간이 설정된 메일의 경우 오류가 발생하는 것으로 확인되었다.
 
-![답장전달 오류](https://imgur.com/ANwwOia.png)
+![답장전달 오류](https://imgur.com/LTfWiRJ.png)
 
 확인 결과 'T'가 없는 시간 표기법에서 LocalDateTime으로의 파싱 시 오류가 발생하는 것이였다.
 
